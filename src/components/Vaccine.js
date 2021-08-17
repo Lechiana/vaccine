@@ -7,7 +7,7 @@ class Vaccine extends React.Component {
     super(props);
     this.state = {
       shot: '10000000',
-      have: false,
+      have: true,
     };
   }
 
